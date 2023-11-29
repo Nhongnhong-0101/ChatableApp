@@ -6,4 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\css\MainLayout.css" />
+    <None Include="wwwroot\Images\anh-meo-cute-de-thuong-34.jpg" />
+  </ItemGroup>
+
 </Project>
