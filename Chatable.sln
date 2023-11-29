@@ -5,7 +5,7 @@ VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Chatable\Client\Client.csproj", "{BB816EAE-6C66-419A-A4F5-12AF170DA195}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Chatable\Server\Server.csproj", "{0AAA176D-AD8D-466C-B524-C6C7A0938618}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatableClient", "..\ChatableClient\ChatableClient.csproj", "{3F8ACCBA-61CD-4558-95BB-F66D0DC5E8D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
